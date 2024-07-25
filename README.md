@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm IT security engineer<br>I'm open to freelancing projects<br>I'm currently learning Kubernetes<br>I like to share my knowledge and learn something new every day
+I'm IT security engineer<br>I'm open to freelancing projects<br>I'm currently learning Kubernetes<br>I like to share my knowledge and learn something new every day.
 
 
 ## 🌐 Socials:
